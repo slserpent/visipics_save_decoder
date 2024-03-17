@@ -2,7 +2,7 @@
 /*
 Reverse engineering the Visipics save file format (.VSP extension). While it does contain image identifiers and metadata,
  it unfortunately does not contain any match groupings and is thus pretty useless. But here it is anyways for
- informational purposes.
+ informational purposes. Written on PHP 7.4.
 */
 
 $file = 'D:\Desktop\test.vsp';
